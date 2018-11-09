@@ -1,0 +1,362 @@
+/*You can add your won color also */
+a:hover {
+    color: ;
+}
+
+.section-title span {
+    color: #0B6E45;
+}
+
+.section-title:before {
+    background: #0B6E45;
+}
+
+.btn-effect {
+    background: #0b6e45;
+}
+
+.btn-effect:hover {
+    background: #0b6e45;
+}
+
+#0B6E45
+.btn-effect:after {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.btn-border:hover {
+    color: #0b6e45;
+    font-family: Abel;
+    font-weight: 900;
+}
+
+.btn-wite:hover {
+    color: #0B6E45;
+}
+
+.form-control:focus,
+textarea:focus {
+    box-shadow: none;
+    border-bottom: 2px solid #0B6E45;
+}
+
+a.main-button,
+input[type="submit"] {
+    background-color: #0B6E45;
+}
+
+.carousel-control i:hover {
+    color: #0B6E45;
+    border-color: #0B6E45;
+}
+
+.slicknav_btn {
+    border-color: #0B6E45;
+}
+
+.slicknav_btn:hover {
+    background: #0B6E45;
+}
+
+.slicknav_nav a:hover,
+.slicknav_nav .active {
+    color: #0B6E45;
+}
+
+.slicknav_menu .slicknav_icon-bar {
+    background: #0B6E45;
+}
+
+.navbar-default .navbar-nav > li:hover > a,
+.navbar-default .navbar-nav > li > a.active {
+    color: #0B6E45;
+}
+
+.dropdown > li:hover > a,
+.sup-dropdown li:hover > a {
+    color: #fff;
+    background-color: #0B6E45;
+}
+
+.navbar-default .navbar-nav .dropdown {
+    border-top: 3px solid #0B6E45;
+}
+
+.full-search {
+    border-top: 3px solid #0B6E45;
+}
+
+.dropdown li a.active,
+.sup-dropdown li a.active {
+    color: #fff;
+    background-color: #0B6E45;
+}
+
+.tp-caption .small-title span {
+    color: #0B6E45;
+}
+
+.tparrows.preview1:hover:after {
+    color: #0B6E45;
+}
+
+.tp-bullets.preview1 .bullet:hover,
+.tp-bullets.preview1 .bullet.selected {
+    background: #0B6E45 !important;
+}
+
+.boxed {
+    background: #0B6E45;
+}
+
+.controls a:hover,
+.controls a.active {
+    color: #fff;
+    background: #0B6E45;
+    border: 1px solid #0B6E45;
+}
+
+.portfolio-item .icon i {
+    background: #0B6E45;
+}
+
+.portfolio-item .content {
+    background: #0B6E45;
+}
+
+.featured-header i {
+    color: #0B6E45;
+    border: 2px solid #0B6E45;
+}
+
+.featured-header .featured-title p {
+    color: #0b6e45;
+}
+
+.featured-content:hover i {
+    background: #0B6E45;
+    color: #fff;
+}
+
+.team-member .info {
+    background: #0B6E45;
+}
+
+#counter:before {
+    background: rgba(46, 204, 113, 0.7);
+}
+
+#testimonial .img-member {
+    border: 4px solid #0B6E45;
+}
+
+#testimonial .client-info {
+    background: #0B6E45;
+}
+
+#testimonial .owl-theme .owl-controls .owl-buttons div {
+    background: #0B6E45;
+}
+
+#testimonial::before {
+    background: rgba(46, 204, 113, 0.7);
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background: #0B6E45;
+}
+
+.hours-widget .contact-info ul.hours span {
+    color: #f2f9f6;
+}
+
+.copyright-section p a {
+    color: #f0f9f5;
+}
+
+.back-to-top i {
+    background-color: #0B6E45;
+}
+
+.switcher-box .open-switcher {
+    background: #0B6E45;
+}
+
+.cta {
+    background-color: rgba(30, 166, 72, 0.81);
+}
+
+.item-wrapper .icon i {
+    color: #0B6E45;
+    border: 2px solid #0B6E45;
+}
+
+.item-wrapper:hover i {
+    background: #0B6E45;
+    color: #fff;
+}
+
+.company-history .content-history-header .year {
+    color: #0B6E45;
+}
+
+.partners .logo:hover {
+    border-color: #0B6E45;
+    background: #fff;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left: 3px solid #0B6E45;
+}
+
+.partners .partners-text h3 a:hover {
+    color: #0B6E45;
+}
+
+.pricing-tables .pricing-table .plan-name .icon i {
+    color: #0B6E45;
+    border: 2px solid #0B6E45;
+}
+
+.pricing-tables .pricing-table .plan-price {
+    background: #0B6E45;
+}
+
+.service-box .service-head .icon i {
+    color: #0B6E45;
+}
+
+.service-box .service-head:after {
+    background: #0B6E45;
+}
+
+.service-box:hover .icon i {
+    color: #fff;
+    background: #0B6E45;
+}
+
+.services-2 .tab-menu .list-group li a:hover,
+.services-2 .tab-menu .list-group li.active a {
+    background: #0B6E45;
+    color: #fff;
+    border-color: #0B6E45;
+}
+
+.services-2 .tabs-content .services-list .list li span {
+    background: #0B6E45;
+}
+
+.service-3 .service-item .icon i {
+    color: #0B6E45;
+    border: 2px solid #0B6E45;
+}
+
+.service-3 .service-item h3 a {
+    color: #0B6E45;
+}
+
+.service-3 .service-item:hover {
+    background: #0B6E45;
+    border-color: #0B6E45;
+}
+
+p
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li > a:hover {
+    background-color: #0B6E45 !important;
+    border-color: #0B6E45 !important;
+    color: #fff;
+}
+
+.panel-heading .panel-title a {
+    background-color: #0B6E45;
+}
+
+.panel-heading .panel-title a.collapsed:hover {
+    background-color: #0B6E45;
+    color: #ffffff;
+}
+
+.post-title a:hover {
+    color: #0B6E45;
+}
+
+.blog-post .post-thumb .hover-wrap .link i {
+    color: #0B6E45;
+    border: 2px solid #0B6E45;
+}
+
+.blog-post .post-thumb .hover-wrap .link i:hover {
+    background: #0B6E45;
+    color: #fff;
+}
+
+#pagination span.current,
+#pagination a:hover {
+    color: #0B6E45;
+}
+
+.widget-title:before {
+    border-bottom: 1px solid #0B6E45;
+}
+
+#sidebar .cat-list li a:hover {
+    color: #0B6E45;
+}
+
+#sidebar .posts-list .widget-content a:hover {
+    color: #0B6E45;
+}
+
+#sidebar .tag a:hover {
+    color: #fff;
+    background: #0B6E45;
+    border-color: #0B6E45;
+}
+
+blockquote {
+    border-left-color: #0B6E45;
+}
+
+.reply-link:hover {
+    background: #0B6E45;
+    color: #fff;
+}
+
+.product .post-featured .esg-overlay .icon i {
+    color: #0B6E45;
+    border: 2px solid #0B6E45;
+}
+
+.product .post-featured .esg-overlay .icon i:hover {
+    background: #0B6E45;
+    color: #fff;
+}
+
+.product .post-content .product-price .amount {
+    color: #0B6E45;
+}
+
+.product .btn-cart {
+    border: 1px solid #0B6E45;
+}
+
+.product .btn-cart:hover {
+    background: #0B6E45;
+}
+
+.page-header {
+    background: #0b6e45;
+}
+
+.breadcrumb a:hover {
+    color: #0B6E45;
+}
+
+.square-spin > div {
+    background: #0b6e45;
+    border: 1px solid #0B6E45;
+}
