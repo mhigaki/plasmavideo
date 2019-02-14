@@ -13,12 +13,11 @@ b {
     font-weight: 600;
 }
 
-/*
-			img {
+img {
     max-width: 100%;
     height: auto;
 }
-			*/
+
 ul,
 ol {
     list-style: none;
@@ -1246,17 +1245,15 @@ input[type="submit"] {
 }
 
 .company-ever .company-bg {
-    /*
-			background: #0b6e45
-			*/
+    background: #FAFAFA;
     overflow: hidden;
 }
 
 .company-ever .content {
-    background: #2c2d2d;
+    background: #202E31;
     color: #ffffff;
     float: right;
-    padding: 68px 40px 51px 30px;
+    padding: 40px;
     position: relative;
     margin-right: -15px;
 }
@@ -1280,14 +1277,14 @@ input[type="submit"] {
 }
 
 .company-ever .content:before {
-    content: "";
-    background: #2c2d2d none repeat scroll 0% 0%;
-    height: 120%;
     position: absolute;
-    width: 57px;
-    top: -15px;
-    left: -35px;
-    transform: rotate(365deg);
+    content: "";
+    top: -16px;
+    left: -23px;
+    width: 50px;
+    height: 107%;
+    background: #FAFAFA none repeat scroll 0% 0%;
+    transform: rotate(370deg);
 }
 
 #portfolio {
@@ -1471,7 +1468,7 @@ input[type="submit"] {
 }
 
 .featured {
-    background: transparent url("../img/bg/bg2.jpg");
+    background: transparent url("../img/bg/bg2.webp");
 }
 
 .featured:before {
@@ -1776,7 +1773,7 @@ input[type="submit"] {
 
 #testimonial {
     width: 100%;
-    background: url(../img/testimonial/testimonial-bg.jpg);
+    background: url(../img/testimonial/testimonial-bg.webp);
     background-size: cover;
     position: relative;
 }
@@ -1892,7 +1889,7 @@ input[type="submit"] {
 footer {
     padding: 40px 0;
     background-repeat: no-repeat;
-    background-image: url('../img/bg/bg-footer.png');
+    background-image: url('../img/bg/bd_pla.svg');
     background-position: center bottom;
     background-color: #14954c;
     background-attachment: scroll;
@@ -3492,7 +3489,7 @@ blockquote .quote-text {
 }
 
 .form-control {
-    height: 48px;
+    height: auto;
 }
 
 .form-control,
@@ -3531,8 +3528,6 @@ textarea:focus {
 
 .contact-datails p i {
     padding-right: 10px;
-    color: #ffffff;
-    text-shadow: 2px 2px 2px #0c0b0b;
 }
 
 .title-banner {
