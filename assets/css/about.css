@@ -1,37 +1,23 @@
-.btn-wite
-{
-    margin-left: 10px;
-
-    color: #444;
-    border: 1px solid #eee;
+.btn-wite {
+  margin-left: 10px;
+  color: #444;
+  border: 1px solid #eee;
 }
-
-.about .group-btn
-{
-    margin-top: 30px;
+.about .group-btn {
+  margin-top: 30px;
 }
-
-.banner
-{
-    position: relative;
+.banner {
+  position: relative;
 }
-
-.banner .wrapper
-{
-    padding: 30px 0;
-
-    color: #fff;
+.banner .wrapper {
+  padding: 30px 0;
+  color: #fff;
 }
-
-.banner h1
-{
-    font-size: 24px;
-    font-weight: 400;
-
-    margin-bottom: 12px;
+.banner h1 {
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 12px;
 }
-
-.banner p
-{
-    color: #fff;
+.banner p {
+  color: #fff;
 }
