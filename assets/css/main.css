@@ -1647,7 +1647,7 @@ input[type="submit"] {
 
 #counter {
     width: 100%;
-    background: url(../img/bg/bg1.jpg) fixed;
+    background: url(../img/bg/bd_pla.svg) fixed;
     background-size: cover;
     position: relative;
 }
@@ -1773,7 +1773,7 @@ input[type="submit"] {
 
 #testimonial {
     width: 100%;
-    background: url(../img/testimonial/testimonial-bg.webp);
+    background: url(../img/testimonial/testimonial-bg.jpg);
     background-size: cover;
     position: relative;
 }
