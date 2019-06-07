@@ -47,17 +47,6 @@
     <link href="assets/css/colors/emerald.css" rel="stylesheet" type="text/css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121960608-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-
-      gtag('js', new Date());
-
-      gtag('config', 'UA-121960608-1');
-    </script>
   </head>
   <body>
     <!-- Full Body Container -->
@@ -97,7 +86,7 @@
             </div>
           </div>
         </div>
-        <div class="navbar navbar-default navbar-top" role="navigation" data-spy="affix" data-offset-top="50" data-pgc="navbar">
+        <div class="navbar-top navbar-default navbar" role="navigation" data-spy="affix" data-offset-top="50" data-pgc="navbar">
           <div class="container">
             <!--Brand and toggle get grouped for better mobile display-->
             <div class="navbar-header">
@@ -173,10 +162,10 @@
                     </li>
                   </ul>
                 </li>
-                <li>
+                <li class="disabled" style="display: none;">
                   <a href="blog.html" target="_blank">Blog</a>
                 </li>
-                <li>
+                <li style="display: none;">
                   <a href="shop.html" target="_blank">Shop</a>
                 </li>
                 <li>
