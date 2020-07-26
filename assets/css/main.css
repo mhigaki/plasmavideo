@@ -689,7 +689,7 @@ input[type="submit"] {
 }
 
 .navbar-brand {
-    padding-bottom: 0px;
+    padding-bottom: 0;
     height: auto;
     padding-top: 0;
 }
@@ -873,7 +873,7 @@ input[type="submit"] {
     top: 97px;
     display: none;
     left: 0px;
-    height: 77px;
+    height: 60px;
     margin-bottom: -1px;
 }
 
@@ -1717,8 +1717,7 @@ input[type="submit"] {
     margin-bottom: 20px;
     position: relative;
 
-    /*
-			&:before{
+    /* &:before{
 				content: '';
 				position: absolute;
 				background: rgba(43, 44, 48, 0.8);
@@ -1730,8 +1729,7 @@ input[type="submit"] {
 				-webkit-transition: all 0.4s ease;
 				-moz-transition: all 0.4s ease;
 				transition: all 0.4s ease;
-			}
-			*/
+			} */
 }
 
 .project .projects-box .projects-thumb:hover:before {
@@ -2248,14 +2246,12 @@ footer a {
     right: 15px;
 }
 
-/*
- * Nivo Lightbox v1.0
+/* * Nivo Lightbox v1.0
  * http://dev7studios.com/nivo-lightbox
  *
  * Copyright 2013, Dev7studios
  * Free to use and abuse under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- */
+ * http://www.opensource.org/licenses/mit-license.php */
 .nivo-lightbox-overlay {
     position: fixed;
     top: 0;
@@ -3560,9 +3556,7 @@ html {
     width: 100%;
     -ms-touch-action: pan-y;
 
-    /*
-			display: none
-			*/
+    /* display: none */
 }
 
 .owl-carousel .owl-wrapper {
@@ -3957,12 +3951,12 @@ html {
     opacity: 0;
     display: inline;
 
-    /*IE7 life-saver */
+    /* IE7 life-saver */
     background: #fff;
     color: #0b6e45;
     filter: alpha(opacity=60);
 
-    /*IE7 fix*/
+    /* IE7 fix */
     margin-top: -30px;
     transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
@@ -3973,7 +3967,7 @@ html {
 .touch-slider:hover .owl-controls .owl-buttons div {
     filter: alpha(opacity=100);
 
-    /*IE7 fix*/
+    /* IE7 fix */
     opacity: 1;
 }
 
@@ -4014,10 +4008,8 @@ html {
     display: inline-block;
     zoom: 1;
 
-    /*
-			display: inline
-			*/
-    /*IE7 life-saver */
+    /* display: inline */
+    /* IE7 life-saver */
 }
 
 .owl-theme .owl-controls .owl-page span {
@@ -4027,7 +4019,7 @@ html {
     margin: 2px 4px;
     filter: alpha(opacity=50);
 
-    /*IE7 fix*/
+    /* IE7 fix */
     opacity: 1;
     border-radius: 50%;
     background: #fff;
@@ -4042,7 +4034,7 @@ html {
 .touch-slider:hover .owl-controls .owl-page span {
     filter: alpha(opacity=100);
 
-    /*IE7 fix*/
+    /* IE7 fix */
     opacity: 1;
 }
 
@@ -4121,7 +4113,7 @@ html {
     zoom: 1;
     display: inline;
 
-    /*IE7 life-saver */
+    /* IE7 life-saver */
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     -o-border-radius: 2px;
