@@ -1,7 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Abel');
-
 body {
-    font-family: 'Abel', sans-serif;
+    font-family: Abel;
     font-size: 16px;
     line-height: 21px;
     font-weight: 400;
@@ -95,7 +93,7 @@ h6 {
 
 p {
     color: #444;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 22px;
 }
