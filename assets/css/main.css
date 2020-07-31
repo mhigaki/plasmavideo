@@ -92,10 +92,11 @@ h6 {
 }
 
 p {
-    color: #444;
+    color: #666;
     font-size: 16px;
     font-weight: 400;
     line-height: 22px;
+    font-family: 'Abel', sans-serif;
 }
 
 p strong {
@@ -298,15 +299,15 @@ ul.social-list li a:hover {
 }
 
 ul.social-list li a.facebook:hover {
-    background-color: #507CBE;
+    background-color: #3f729b;
 }
 
 ul.social-list li a.twitter:hover {
     background-color: #63CDF1;
 }
 
-ul.social-list li a.google:hover {
-    background-color: #F16261;
+ul.social-list li a.instagram:hover {
+    background-color: #E1306C;
 }
 
 ul.social-list li a.dribbble:hover {
@@ -314,7 +315,7 @@ ul.social-list li a.dribbble:hover {
 }
 
 ul.social-list li a.linkdin:hover {
-    background-color: #90CADD;
+    background-color: #0e76a8;
 }
 
 ul.social-list li a i {
@@ -585,7 +586,7 @@ input[type="submit"] {
 
 .breadcrumb {
     font-size: 18px;
-    color: #0c6842;
+    color: #999;
     background: #ffffff;
     margin: 3px 0 6px;
     width: 600px;
@@ -596,7 +597,7 @@ input[type="submit"] {
 }
 
 .breadcrumb a {
-    color: #444;
+    color: #0b6e45;
 }
 
 .breadcrumb .crumbs-spacer {
@@ -1235,7 +1236,7 @@ input[type="submit"] {
 }
 
 .service-box .service-content p {
-    font-size: 14px;
+    font-size: 16px;
     color: #444;
     font-weight: 400;
     margin-bottom: 30px;
@@ -1280,7 +1281,7 @@ input[type="submit"] {
     left: -23px;
     width: 50px;
     height: 107%;
-    background: #FAFAFA none repeat scroll 0% 0%;
+    background: #fafafa none repeat scroll 0% 0%;
     transform: rotate(370deg);
 }
 
@@ -1844,7 +1845,7 @@ input[type="submit"] {
 }
 
 .client {
-    background: #f1f1f1;
+    background: #fff;
 }
 
 .client-logo {
@@ -3124,11 +3125,11 @@ blockquote .quote-text {
 .services-2 .tabs-content .services-list .list li span {
     color: #fff;
     border-radius: 50%;
-    width: 20px;
+    width: 25px;
     display: inline-block;
-    height: 20px;
+    height: 25px;
     text-align: center;
-    line-height: 20px;
+    line-height: 25px;
     vertical-align: middle;
     margin-right: 8px;
 }

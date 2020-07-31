@@ -1,4 +1,4 @@
-/*You can add your won color also */
+/* You can add your won color also */
 a:hover {
     color: ;
 }
@@ -8,7 +8,7 @@ a:hover {
 }
 
 .section-title:before {
-    background: #0B6E45;
+    background: #0b6e45;
 }
 
 .btn-effect {
@@ -37,7 +37,7 @@ a:hover {
 .form-control:focus,
 textarea:focus {
     -webkit-box-shadow: none;
-            box-shadow: none;
+    box-shadow: none;
     border-bottom: 2px solid #0B6E45;
 }
 
@@ -262,9 +262,7 @@ input[type="submit"] {
     border-color: #0B6E45;
 }
 
-p
-
-.nav-tabs > li.active > a,
+p.nav-tabs > li.active > a,
 .nav-tabs > li.active > a:focus,
 .nav-tabs > li > a:hover {
     background-color: #0B6E45 !important;
