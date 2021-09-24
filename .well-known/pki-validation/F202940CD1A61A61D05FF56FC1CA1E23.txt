@@ -1,0 +1,3 @@
+Domainplasmavideo.net.br
+Auth value970B0DB31439492C87E4B7B2F8DB094C0CFF0B55511EDB45FEE5737BBFC3505E trust-provider.com SFDoXz2m2k
+Auth pathplasmavideo.net.br/.well-known/pki-validation/F202940CD1A61A61D05FF56FC1CA1E23.txt
