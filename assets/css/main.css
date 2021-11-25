@@ -252,6 +252,9 @@ ul.social-list li a {
 ul.social-list li a:hover {
   color: #fff;
 }
+ul.social-list li a.whatsapp:hover {
+  background-color: #25D366;
+}
 ul.social-list li a.facebook:hover {
   background-color: #3f729b;
 }
